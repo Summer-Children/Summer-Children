@@ -10,8 +10,10 @@
 - TypeScript  
 - React  
 - Apollo Client
+
 【Backend】
 - Nest.js
+
 【Database】
 - Supabase  
 - MongoDB
