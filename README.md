@@ -4,6 +4,7 @@
 
 **Language and Tools that I'm familiar with**  
 【Frontend】
+
 ・HTML  
 ・CSS(including TailwindCSS)  
 ・Java Script  
@@ -12,8 +13,10 @@
 ・Apollo Client
 
 【Backend】
+
 ・Nest.js
 
 【Database】
+
 ・Supabase  
 ・MongoDB
