@@ -4,16 +4,16 @@
 
 **Language and Tools that I'm familiar with**  
 【Frontend】
-・HTML  
-・CSS(including TailwindCSS)  
-・Java Script  
-・TypeScript  
-・React  
-・Apollo Client
+- HTML  
+- CSS(including TailwindCSS)  
+- Java Script  
+- TypeScript  
+- React  
+- Apollo Client
 
 【Backend】
-・Nest.js
+- Nest.js
 
 【Database】
-・Supabase  
-・MongoDB
+- Supabase  
+- MongoDB
