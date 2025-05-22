@@ -13,6 +13,7 @@
 
 【Backend】
 - Nest.js
+- GraphQL
 
 【Database】
 - Supabase  
