@@ -9,6 +9,7 @@
 - Java Script  
 - TypeScript  
 - React  
+- React Native
 - Apollo Client
 
 【Backend】
