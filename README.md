@@ -5,7 +5,7 @@
 **Language and Tools that I'm familiar with**  
 【Frontend】
 - HTML  
-- CSS(including TailwindCSS)  
+- CSS(including TailwindCSS and Nativewind)  
 - Java Script  
 - TypeScript  
 - React  
