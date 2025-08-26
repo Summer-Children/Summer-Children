@@ -14,6 +14,7 @@
 
 【Backend】
 - Nest.js
+- Next.js
 - GraphQL
 
 【Database】
