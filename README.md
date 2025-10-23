@@ -15,11 +15,11 @@
 【Backend】
 - Nest.js
 - Next.js
-- GraphQL
+- RESTful API/ GraphQL
 
 【Database】
 - Supabase  
 - MongoDB
 
 【Test】
-- Vitest
+- Jest
