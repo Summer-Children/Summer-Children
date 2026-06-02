@@ -32,18 +32,20 @@ You can see some of my past team projects in the following repositories.
 - CSS(including TailwindCSS and Nativewind)  
 - Java Script  
 - TypeScript  
-- React  
+- React
 - React Native
+- Next.js
 - Apollo Client
 
 【Backend】
 - Nest.js
-- Next.js
+- Python (Django)
 - RESTful API/ GraphQL
 
 【Database】
 - Supabase  
 - MongoDB
+- PostgreSQL
 
 【Test】
 - Jest
